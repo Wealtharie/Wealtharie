@@ -16,6 +16,11 @@
   - Root cause
   - Step by step fix
   - Prevention tips
+
+- Asset Management & Inventory System
+- Track laptops, desktops, printers, Assigned users, Warranty dates and office location
+
+- Active Directory Hardening Project
 <!-- - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
