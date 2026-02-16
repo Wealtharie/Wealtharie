@@ -9,7 +9,13 @@
   - Group policy application
   - Software deployment
   - Email setup
-  - First login checklist 
+  - First login checklist
+
+- <b>IT Troubleshooting Knowledge Base</b>
+  - Common issues WiFi, printer, VPN, Outlook, slow PC
+  - Root cause
+  - Step by step fix
+  - Prevention tips
 <!-- - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
