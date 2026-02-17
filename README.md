@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wealtharie! <br/><a href="https://github.com/weaaltharie">IT Support</a> and <a href="https://www.linkedin.com/in/wealtharie/">Cybersecurity Student</a><!-- ,<a href="https://www.youtube.com/c/wealtharie">YouTuber</a>--></h1>
+<h1>Hi,👋 I'm Wealtharie! <!--<br/><a href="https://github.com/weaaltharie">IT Support</a> and <a href="https://www.linkedin.com/in/wealtharie/">Cybersecurity Student</a><!-- ,<a href="https://www.youtube.com/c/wealtharie">YouTuber</a>--></h1>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
