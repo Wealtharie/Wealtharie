@@ -17,7 +17,7 @@
   - Step by step fix
   - Prevention tips
 
-- Asset Management & Inventory System
+- [Asset Management & Inventory System](https://docs.google.com/spreadsheets/d/1O6kW72KpMCTW2a4KKSEvvRpSkG1iQhrKOHMY1ImqRkM/edit?usp=sharing)
 - Track laptops, desktops, printers, Assigned users, Warranty dates and office location
 
 - Active Directory Hardening Project
