@@ -11,7 +11,7 @@
   - Email setup
   - First login checklist
 
-- <b>IT Troubleshooting Knowledge Base</b>
+- <b>[IT Troubleshooting Knowledge Base](https://agreeable-cafe-a8c.notion.site/2f9927f3d796802c961ad82ea7a11087?pvs=143)</b>
   - Common issues WiFi, printer, VPN, Outlook, slow PC
   - Root cause
   - Step by step fix
